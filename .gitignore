@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log
+.DS_Store
+
+# Build artifacts
+dist/
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.local
+
+# npm package manager cache
+.npm/
+
+# Miscellaneous
+*~
+*.swp
+.DS_Store

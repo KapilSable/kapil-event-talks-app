@@ -1,0 +1,50 @@
+[
+  {
+    "id": "talk1",
+    "title": "The Future of Web Development with AI",
+    "speakers": ["Alice Johnson"],
+    "category": ["AI", "Web Development", "Frontend"],
+    "duration": 60,
+    "description": "Explore how artificial intelligence is shaping the future of web development, from intelligent user interfaces to automated code generation."
+  },
+  {
+    "id": "talk2",
+    "title": "Demystifying Blockchain: Beyond the Hype",
+    "speakers": ["Bob Williams", "Carol Davis"],
+    "category": ["Blockchain", "Decentralization"],
+    "duration": 60,
+    "description": "A deep dive into the core concepts of blockchain technology, its practical applications, and common misconceptions."
+  },
+  {
+    "id": "talk3",
+    "title": "Cloud Native Architectures: A Practical Guide",
+    "speakers": ["David Miller"],
+    "category": ["Cloud", "DevOps", "Architecture"],
+    "duration": 60,
+    "description": "Learn how to design and implement robust, scalable, and resilient cloud-native applications using modern architectural patterns."
+  },
+  {
+    "id": "talk4",
+    "title": "Cybersecurity Essentials for Developers",
+    "speakers": ["Eve Brown"],
+    "category": ["Security", "Best Practices"],
+    "duration": 60,
+    "description": "Understand the fundamental principles of cybersecurity and how to incorporate secure coding practices into your development workflow."
+  },
+  {
+    "id": "talk5",
+    "title": "Mastering Modern JavaScript: ESNext and Beyond",
+    "speakers": ["Frank White", "Grace Green"],
+    "category": ["JavaScript", "Programming", "Frontend"],
+    "duration": 60,
+    "description": "Stay ahead of the curve with a comprehensive look at the latest features in JavaScript, including ESNext, TypeScript, and popular frameworks."
+  },
+  {
+    "id": "talk6",
+    "title": "Data Science for Everyone: Getting Started with Python",
+    "speakers": ["Harry Black"],
+    "category": ["Data Science", "Python", "Machine Learning"],
+    "duration": 60,
+    "description": "An introductory session to data science using Python, covering essential libraries, data manipulation, and basic machine learning concepts."
+  }
+]
